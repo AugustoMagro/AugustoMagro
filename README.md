@@ -3,7 +3,6 @@
 - 💻 Sou estudante e profissional de TI;
 - 🥇 Aqui compartilho minhas skills e novos aprendizados em programação;
 - 📨 Contate-me no e-mail: augustovmagro@gmail.com;
-- 🙋🏻‍♀️ Você também pode saber mais sobre mim acessando meu LinkedIn;
  
 ##
 
