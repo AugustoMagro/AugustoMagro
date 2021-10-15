@@ -10,7 +10,6 @@
 <div>
   <a href="https://github.com/AugustoMagro">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AugustoMagro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img align="top-right" height="130em" alt="imagem" src="https://cdn.discordapp.com/attachments/886653324428980339/886653439931727882/download20210900134031.png">
 </div>
   
 ##
