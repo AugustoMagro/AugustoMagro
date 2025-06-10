@@ -1,4 +1,6 @@
-# Augusto Magro
+# Hi! I´m Augusto Magro
+
+I have 3 years of professional experience on Operations, developing automation and creating new workflows to improve process efficiency.
 
 Há 3 anos sou desenvolvedor RPA utilizando diversas tecnologias e linguagens de acordo com o projeto e objetivo de cada automação, Python é a linguagem que estou mais usando atualmente.
 
